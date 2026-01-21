@@ -7,7 +7,7 @@ title Windows Optimizer
 echo.
 echo   --------------------------------------------------------
 echo     Windows Optimizer v7.0 (Ultimate Performance + Advanced Debloat + 2025 Tweaks)
-echo     Copyright (C) 2021-2025 Aman Pandey
+echo     Copyright (C) 2021-2026  oxide
 echo   --------------------------------------------------------
 echo.
 pause
